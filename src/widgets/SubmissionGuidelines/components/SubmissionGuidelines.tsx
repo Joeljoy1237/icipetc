@@ -175,7 +175,7 @@ export default function SubmissionGuidelinesContent() {
                 <span>
                   Signed Copyright Agreement.
                   <Link
-                    href="https://drive.google.com/file/d/1ykBPIzpEuzXNIbwa9UjK5_F4oJ1DeiYn/view?usp=drive_link"
+                    href="icipetc_copyright_form.pdf"
                     target="_blank"
                     className="underline hover:text-white ml-1 font-semibold"
                   >
